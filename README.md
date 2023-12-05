@@ -12,7 +12,7 @@ Feel free to reach out!
 ##
 
 <p align="center">
-  <b> python &#8226; sheets &#8226; sql </b>
+  <b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="30" height="30"/>    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/800px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="google sheets" width="23" height="30"/>    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="python" width="30" height="30"/> </b>
 </p>
 
 ##
