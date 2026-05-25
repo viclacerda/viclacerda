@@ -1,4 +1,4 @@
-### Hi, there! 🐈‍⬛🐈👩🏻‍💻
+### Hi, there!
 
 I'm Victoria. I have a degree in Languages with a specialization in Brazilian accent. I'm a graduate student in IA & ML and am seeking a Jr Data Scientist role.
 
