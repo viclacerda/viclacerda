@@ -1,6 +1,6 @@
 ### Hi, there! 🐈‍⬛🐈👩🏻‍💻
 
-I'm Victoria. I have a degree in Languages with a specialization in voice and currently, I'm a graduate student of IA & ML seeking an opportunity as a Data Scientist.
+I'm Victoria. I have a degree in Languages with a specialization in Brazilian accent. I'm a graduate student in IA & ML and am seeking a Jr Data Scientist role.
 
 You're gonna find here my <b>DS projects</b> and my study path in the tech career. 
 
